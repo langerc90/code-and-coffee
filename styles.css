@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('hintergrundbild.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: Arial, sans-serif;
+    /* Hier kannst du zusätzliche Stile hinzufügen, um den Text lesbarer zu machen */
+}
