@@ -23,6 +23,8 @@ h1 {
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 40%; /* Begrenze die Breite auf 40% des Bildschirms */
+    max-width: 600px; /* Setze ein maximales Breitenlimit, um zu verhindern, dass der Container zu breit wird */
 }
 a {
     color: #007bff;
